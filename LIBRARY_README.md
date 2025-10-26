@@ -190,7 +190,7 @@ staff (independent table)
 ## Sample Data
 
 The sample data includes:
-- 12 famous authors (George Orwell, Jane Austen, Mark Twain, etc.)
+- 13 famous authors (George Orwell, Jane Austen, Mark Twain, Harper Lee, etc.)
 - 5 major publishers
 - 12 book categories
 - 14 classic books

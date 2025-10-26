@@ -21,7 +21,7 @@ python load_sample_data.py
 ```
 
 This will add:
-- 12 famous authors
+- 13 famous authors
 - 5 publishers
 - 12 categories
 - 14 classic books
