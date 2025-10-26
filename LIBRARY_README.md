@@ -215,7 +215,12 @@ library-database/
 ├── library_schema.sql       # Database schema definition
 ├── library_db.py           # Python database management class
 ├── load_sample_data.py     # Script to load sample data
-├── README.md               # This file
+├── library_cli.py          # Interactive CLI tool
+├── examples.py             # Example usage script
+├── LIBRARY_README.md       # Complete documentation (this file)
+├── QUICKSTART.md           # Quick start guide
+├── README.md               # Main repository README
+├── requirements.txt        # Python dependencies
 └── library.db              # SQLite database file (created on first run)
 ```
 

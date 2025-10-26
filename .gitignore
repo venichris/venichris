@@ -8,6 +8,7 @@ __pycache__/
 # Database
 *.db
 library.db
+example_library.db
 
 # Virtual Environment
 venv/

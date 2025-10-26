@@ -19,8 +19,14 @@ This repository includes a comprehensive library management database system buil
 # Initialize the database
 python library_db.py
 
-# Load sample data
+# Load sample data (includes 14 books, 13 authors, 8 members)
 python load_sample_data.py
+
+# Run interactive examples
+python examples.py
+
+# Use the interactive CLI tool
+python library_cli.py
 ```
 
 ### Documentation
