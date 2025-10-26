@@ -1,0 +1,12 @@
+# Library Database System - No external dependencies required
+# This project uses only Python standard library modules
+
+# Python version requirement
+# Python >= 3.6
+
+# Standard library modules used:
+# - sqlite3 (included with Python)
+# - datetime (included with Python)
+# - os (included with Python)
+# - typing (included with Python >= 3.5)
+# - random (included with Python)
